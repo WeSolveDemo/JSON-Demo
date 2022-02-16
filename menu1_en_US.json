@@ -6,7 +6,7 @@
 	"app.button.cut": "Cut",
 	"app.button.paste": "Paste",
 	"app.button.save": "Save",
-	"app.button.saveas": "Save As..."
+	"app.button.saveas": "Save As...",
 	"app.button.copy": "Copy",
 	"app.button.undo": "Undo",
 	"app.button.reundo": "Redo"
