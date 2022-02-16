@@ -1,11 +1,12 @@
 {
 	"app.description": "Description of the program.",
-	"app.version": "Version1.1",
+	"app.version": "Version1.2",
 	"app.button.confirm": "Confirm",
 	"app.button.cancel": "Cancel",
 	"app.button.cut": "Cut",
 	"app.button.paste": "Paste",
 	"app.button.save": "Save",
+	"app.button.saveas": "Save As..."
 	"app.button.copy": "Copy",
 	"app.button.undo": "Undo",
 	"app.button.reundo": "Redo"
