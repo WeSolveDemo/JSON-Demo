@@ -1,6 +1,6 @@
 {
 	"app.description": "Description of the program.",
-	"app.version": "Version2.0",
+	"app.version": "Version2.1",
 	"app.button.confirm": "Confirm",
 	"app.button.cancel": "Cancel",
 	"app.button.cut": "Cut",
@@ -9,5 +9,6 @@
 	"app.button.copy": "Copy",
 	"app.button.undo": "Undo",
 	"app.button.reundo": "Redo",
-	"app.button.quit": "Quit"
+	"app.button.quit": "Quit",
+	"app.button.exit": "Exit"
 }
