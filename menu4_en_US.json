@@ -1,8 +1,9 @@
 {
 	"app.description": "Viewer Menu",
-	"app.version": "Version 1.0",
+	"app.version": "Version 1.1",
 	"app.button.viewmenu": "Viewer Menu",
 	"app.button.mode": "Mode",
-	"app.button.res": "Resolution"
+	"app.button.res": "Resolution",
+	"app.button.dir": "Directory"
 	
 }
