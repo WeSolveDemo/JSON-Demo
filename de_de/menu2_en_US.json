@@ -1,15 +1,13 @@
 {
 	"app.description": "Beschreibung des Programms.",
-	"app.version": "Version2.2",
+	"app.version": "Version2.0",
 	"app.button.confirm": "Bestätigen Sie",
 	"app.button.cancel": "Abbrechen",
 	"app.button.cut": "Schneiden",
 	"app.button.paste": "Paste",
 	"app.button.save": "Speichern",
-	"app.button.saveas": "Speichern als...",
 	"app.button.copy": "Kopieren",
 	"app.button.undo": "Rückgängig machen",
 	"app.button.reundo": "Wiederholen",
-	"app.button.quit": "Aufhören",
-	"app.button.exit": "Exit"
+	"app.button.quit": "Aufhören"
 }
