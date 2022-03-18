@@ -1,0 +1,15 @@
+{
+	"app.description": "Description du programme.",
+	"app.version": "Version2.2",
+	"app.button.confirm": "Accepter",
+	"app.button.cancel": "Cancel",
+	"app.button.cut": "Cut",
+	"app.button.paste": "Paste",
+	"app.button.save": "Save",
+	"app.button.saveas": "Save as...",
+	"app.button.copy": "Copy",
+	"app.button.undo": "Undo",
+	"app.button.reundo": "Redo",
+	"app.button.quit": "Quit",
+	"app.button.exit": "Quitter"
+}
