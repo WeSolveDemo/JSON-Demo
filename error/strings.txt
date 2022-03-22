@@ -1,0 +1,6 @@
+This is a simpel sample text.
+Just for testing purposes.
+Open
+Close
+Save
+Exit
