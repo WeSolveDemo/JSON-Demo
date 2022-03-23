@@ -1,5 +1,7 @@
 {
   "error.message.wrong credentials": "Sie haben ein falsches Kennwort eingegeben.",
-  "error.message.acceptterms": "Bitte die Bestimmungen akzeptieren."
+  "error.message.acceptterms": "Bitte die Bestimmungen akzeptieren.",
+  "error.message.fatalerror": "",
+  "error.message.shutdown": ""
 }
   
