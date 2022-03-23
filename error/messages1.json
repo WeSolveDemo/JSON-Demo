@@ -1,5 +1,7 @@
 {
   "error.message.wrong credentials": "You entered the wrong username or password.",
-  "error.message.acceptterms": "Please accept the terms."
+  "error.message.acceptterms": "Please accept the terms.",
+  "error.message.fatalerror": "A fatal error has occured.",
+  "error.message.shutdown": "The system is shutting down."
 }
   
