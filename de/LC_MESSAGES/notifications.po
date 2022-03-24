@@ -45,4 +45,6 @@ msgstr ".Tap to view live feed."
 #: app/notification/firebase_message_factory.py:41
 msgid "Check on room temperature and humidity."
 msgstr ".Check on room temperature and humidity."
-
+#: UPDATE
+msgid "New entry."
+msgstr ". New entry."
