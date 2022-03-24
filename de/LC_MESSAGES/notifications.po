@@ -1,0 +1,48 @@
+# English translations for device-events-subscriber.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the
+# device-events-subscriber project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: device-events-subscriber VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-12-10 15:01-0700\n"
+"PO-Revision-Date: 2021-10-29 14:48-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: app/notification/firebase_message_factory.py:21
+msgid "Cam: Sound Detected"
+msgstr "Cam: Sound Detected"
+
+#: app/notification/firebase_message_factory.py:22
+msgid "Cam: Motion Detected"
+msgstr "Cam: Motion Detected"
+
+#: app/notification/firebase_message_factory.py:23
+#: app/notification/firebase_message_factory.py:24
+#: app/notification/firebase_message_factory.py:25
+#: app/notification/firebase_message_factory.py:26
+msgid "Sleep Assist"
+msgstr "Schlafassistent."
+
+#: app/notification/firebase_message_factory.py:30
+#: app/notification/firebase_message_factory.py:31
+msgid "Tap to view live feed."
+msgstr "Tap to view live feed."
+
+#: app/notification/firebase_message_factory.py:32
+#: app/notification/firebase_message_factory.py:35
+#: app/notification/firebase_message_factory.py:38
+#: app/notification/firebase_message_factory.py:41
+msgid "Check on room temperature and humidity."
+msgstr "Check on room temperature and humidity."
+
