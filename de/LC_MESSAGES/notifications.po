@@ -21,28 +21,28 @@ msgstr ""
 
 #: app/notification/firebase_message_factory.py:21
 msgid "Cam: Sound Detected"
-msgstr "Cam: Sound Detected"
+msgstr ".Cam: Sound Detected"
 
 #: app/notification/firebase_message_factory.py:22
 msgid "Cam: Motion Detected"
-msgstr "Cam: Motion Detected"
+msgstr ".Cam: Motion Detected"
 
 #: app/notification/firebase_message_factory.py:23
 #: app/notification/firebase_message_factory.py:24
 #: app/notification/firebase_message_factory.py:25
 #: app/notification/firebase_message_factory.py:26
 msgid "Sleep Assist"
-msgstr "Schlafassistent."
+msgstr ".Sleep Assist"
 
 #: app/notification/firebase_message_factory.py:30
 #: app/notification/firebase_message_factory.py:31
 msgid "Tap to view live feed."
-msgstr "Tap to view live feed."
+msgstr ".Tap to view live feed."
 
 #: app/notification/firebase_message_factory.py:32
 #: app/notification/firebase_message_factory.py:35
 #: app/notification/firebase_message_factory.py:38
 #: app/notification/firebase_message_factory.py:41
 msgid "Check on room temperature and humidity."
-msgstr "Check on room temperature and humidity."
+msgstr ".Check on room temperature and humidity."
 
