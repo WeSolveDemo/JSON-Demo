@@ -1,0 +1,13 @@
+{
+	"app.description": "Hauptmenü",
+	"app.version": "Version 1.0",
+	"app.button.confirm": "Bestätigen",
+	"app.button.cancel": "Abbrechen",
+	"app.button.cut": "Ausschneiden",
+	"app.button.paste": "Enfügen",
+	"app.button.save": "Speichern",
+	"app.button.saveas": "Speichern Als...",
+	"app.button.copy": "Kopieren",
+	"app.button.undo": "Zurück",
+	"app.button.reundo": "Rückgängig"
+}
